@@ -3,5 +3,3 @@ class Person
     @name = name
   end 
 end 
-
-person = Person.new("Beyonce")
