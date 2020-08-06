@@ -4,4 +4,4 @@ class Person
   end 
 end 
 
-Person
+person = Person.new 
